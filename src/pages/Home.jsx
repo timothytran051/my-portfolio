@@ -35,8 +35,8 @@ function Home() {
 
 			<section id="contact" className="section">
 				<h2>Contact</h2>
-				<p>Email: timothy@example.com</p>
-				<p>GitHub: github.com/yourusername</p>
+				<p>Email: timothytran051@gmail.com</p>
+				<p>GitHub: github.com/timothytran051</p>
 			</section>
 		</main>
 	);

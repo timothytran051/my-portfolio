@@ -6,10 +6,23 @@ function Blog() {
 
 			<article className="blog-post">
 				<h3>Spring Break 2026</h3>
+
+				<img
+					src="/my-portfolio/images/PickleballCourt1.jpg"
+					alt="Pickleball court"
+					className="blog-image"
+				/>
+
 				<p>
                     I didn't really get to do much this spring break, so I will talk about my last one. I went to Florida to see my friends who live there, stayed over at his house for the entire time.
                     My other friend came down from South Carolina as well, and the only thing we did was play pickleball and fish for two weeks straight.
 				</p>
+
+				<img
+					src="/my-portfolio/images/Skyway_West_(North)_Fishing_Pier_SP-12.jpg"
+					alt="Fishing pier"
+					className="blog-image"
+				/>
 
 				<p>
 					Getting to see them was a great change of pace, since I haven't seen them in a long time. 
